@@ -1,3 +1,3 @@
-import { Num } from './Num'
+import { Domain, DomainOperator, toFilter, toJson, TermOperator, parse, Term } from './dynamic-filter'
 
-export { Num }
+export {  Domain, DomainOperator, toFilter, toJson, TermOperator, parse, Term }
