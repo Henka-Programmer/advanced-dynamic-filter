@@ -1,6 +1,6 @@
 {
-  "name": "dynamic-filter",
-  "version": "0.2.2",
+  "name": "advanced-dynamic-filter",
+  "version": "0.1.0",
   "description": "",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -36,17 +36,19 @@
     "sql",
     "search",
     "domain",
-    "dynamicfilter"
+    "dynamicfilter",
+    "domain filter",
+    "advanced filter"
   ],
   "author": "Abdo Henka <henka.programmer@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/Henka-Programmer/dynamic-filter",
+  "homepage": "https://github.com/Henka-Programmer/advanced-dynamic-filter",
   "repository": {
     "type": "git",
-    "url": "git@github.com:tomchen/example-typescript-package.git"
+    "url": "git@github.com:Henka-Programmer/advanced-dynamic-filter.git"
   },
   "bugs": {
-    "url": "https://github.com/Henka-Programmer/dynamic-filter/issues"
+    "url": "https://github.com/Henka-Programmer/advanced-dynamic-filter/issues"
   },
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
