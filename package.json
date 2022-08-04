@@ -28,27 +28,25 @@
     "dist"
   ],
   "keywords": [
-    "example",
+    "dynamic",
     "typescript",
     "npm",
     "package",
-    "sample",
-    "boilerplate",
-    "starter",
-    "demo",
-    "cjs",
-    "esm",
-    "umd"
+    "filter",
+    "sql",
+    "search",
+    "domain",
+    "dynamicfilter"
   ],
-  "author": "Tom Chen <tomchen.org@gmail.com>",
+  "author": "Abdo Henka <henka.programmer@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/tomchen/example-typescript-package",
+  "homepage": "https://github.com/Henka-Programmer/dynamic-filter",
   "repository": {
     "type": "git",
     "url": "git@github.com:tomchen/example-typescript-package.git"
   },
   "bugs": {
-    "url": "https://github.com/tomchen/example-typescript-package/issues"
+    "url": "https://github.com/Henka-Programmer/dynamic-filter/issues"
   },
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
