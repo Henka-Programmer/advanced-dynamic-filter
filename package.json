@@ -1,5 +1,5 @@
 {
-  "name": "@ahenka/advanced-dynamic-filter",
+  "name": "advanced-dynamic-filter",
   "version": "0.5.0",
   "description": "",
   "main": "dist/cjs/index.js",
@@ -19,7 +19,6 @@
     "package": "npm run build && npm pack",
     "test": "jest --no-cache --runInBand",
     "test:cov": "jest --coverage --no-cache --runInBand",
-    "addscope": "node tools/packagejson name @ahenka/advanced-dynamic-filter",
     "postversion": "git push --follow-tags"
   },
   "publishConfig": {
