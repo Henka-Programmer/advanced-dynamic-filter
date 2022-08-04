@@ -2,7 +2,7 @@
 
 This is a client library to build dynamic filter at client side and send it to server side to be executed and get results back.
 
-[![npm package](https://img.shields.io/badge/npm%20i-example--typescript--package-brightgreen)](https://www.npmjs.com/package/dynamic-filter) [![version number](https://img.shields.io/npm/v/dynamic-filter?color=green&label=version)](https://github.com/Henka-Programmer/dynamic-filter/releases) [![Actions Status](https://github.com/tomchen/advanced-dynamic-filter/workflows/Test/badge.svg)](https://github.com/Henka-Programmer/dynamic-filter/actions) [![License](https://img.shields.io/github/license/Henka-Programmer/dynamic-filter)](https://github.com/Henka-Programmer/dynamic-filter/blob/main/LICENSE)
+[![npm package](https://img.shields.io/badge/npm%20i-example--typescript--package-brightgreen)](https://www.npmjs.com/package/dynamic-filter) [![version number](https://img.shields.io/npm/v/dynamic-filter?color=green&label=version)](https://github.com/Henka-Programmer/dynamic-filter/releases) [![Actions Status](https://github.com/tomchen/advanced-dynamic-filter/workflows/Test/badge.svg)](https://github.com/Henka-Programmer/advanced-dynamic-filter/actions) [![License](https://img.shields.io/github/license/Henka-Programmer/advanced-dynamic-filter)](https://github.com/Henka-Programmer/advanced-dynamic-filter/blob/main/LICENSE)
 
 It uses npm, TypeScript compiler, Jest, webpack, husky, pinst, commitlint. The production files include CommonJS, ES Modules, UMD version and TypeScript declaration files.
 
