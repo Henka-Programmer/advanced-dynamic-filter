@@ -22,5 +22,5 @@ console.log(json);
 If you don't see any linting errors in VS Code, if you put your mouse cursor over `Domain` and see its type, then it's all good.
 
 ```bash
-npm uninstall example-typescript-package -g
+npm uninstall advanced-dynamic-filter -g
 ```
